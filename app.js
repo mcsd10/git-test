@@ -1,9 +1,7 @@
 const isLogin = (username) => {
-    return true;
-};
-const register = (user) => {
-    return true;
-};
-const getMe = (user) => {
-    return true;
+    if (username  === "amin"){
+        return true;
+    } else {
+        return false;
+    }
 };
