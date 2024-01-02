@@ -3,3 +3,6 @@ const login = () => true;
 const ff =12;
 const work = () => true;
 let x=15;
+const getMe = (user) => {
+  return user.name
+}
