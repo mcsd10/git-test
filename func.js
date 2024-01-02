@@ -6,3 +6,4 @@ let x=15;
 const getMe = (user) => {
   return user.name
 }
+let y = 13 ;
