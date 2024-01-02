@@ -5,3 +5,4 @@ const isLogin = (username) => {
         return false;
     }
 };
+const go = 30;
